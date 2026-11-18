@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :4457: for Floccus bookmark sync browser extension -->
+<!--- highestId :4458: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Anime/Manga</title>
@@ -49,72 +49,6 @@
   <title>Art</title>
   <folder id="16">
     <title>Bandcamp</title>
-    <bookmark href="https://coconabe.bandcamp.com/" id="56">
-      <title>COCONABE</title>
-    </bookmark>
-    <bookmark href="https://github.com/Otiel/BandcampDownloader" id="57">
-      <title>GitHub - Otiel/BandcampDownloader: A Windows app used to download albums from Bandcamp.</title>
-    </bookmark>
-    <bookmark href="https://soundcloud.com/emdyion" id="58">
-      <title>I Want Yuru Back | Yuru Camp x The Jackson 5 by Fjord.</title>
-    </bookmark>
-    <bookmark href="https://ikagunner.bandcamp.com/" id="59">
-      <title>IkaGunner</title>
-    </bookmark>
-    <bookmark href="https://wpoaboa.bandcamp.com/releases" id="60">
-      <title>JoJo&apos;s Bizarre Mashups: Songs Joseph Joestar May Have Heard | Weird Painting of a Bowl of Apricots</title>
-    </bookmark>
-    <bookmark href="https://recordcollector1972.bandcamp.com/releases" id="61">
-      <title>La Collection Bastille | RecordCollector1972</title>
-    </bookmark>
-    <bookmark href="https://mega.nz/#F!YFpgxQwK!X-XbsPx-srpY0Z_UvKwPYA" id="62">
-      <title>MEGA</title>
-    </bookmark>
-    <bookmark href="https://mega.nz/#F!AA4RGRZZ!wuFLu68UBWUXQL-7yqcBTA" id="63">
-      <title>MEGA</title>
-    </bookmark>
-    <bookmark href="https://msl925.bandcamp.com/" id="64">
-      <title>MSL925 the fox</title>
-    </bookmark>
-    <bookmark href="https://40nix.bandcamp.com/" id="65">
-      <title>Music | 40Nix</title>
-    </bookmark>
-    <bookmark href="https://ahmaykmewsik.bandcamp.com/" id="116">
-      <title>Music | Ahmaykmewsik</title>
-    </bookmark>
-    <bookmark href="https://chernabogue.bandcamp.com/" id="117">
-      <title>Music | Chernabogue</title>
-    </bookmark>
-    <bookmark href="https://chrismerkelstudios.bandcamp.com/music" id="118">
-      <title>Music | Chris Merkel Studios</title>
-    </bookmark>
-    <bookmark href="https://dbsoundworks.bandcamp.com/music" id="119">
-      <title>Music | Danny Baranowsky</title>
-    </bookmark>
-    <bookmark href="https://soundcirclet.bandcamp.com/" id="120">
-      <title>Music | dante</title>
-    </bookmark>
-    <bookmark href="https://daymanoursavior.bandcamp.com/" id="121">
-      <title>Music | DaymanOurSavior</title>
-    </bookmark>
-    <bookmark href="https://ellie53.bandcamp.com/" id="122">
-      <title>Music | Ellie53</title>
-    </bookmark>
-    <bookmark href="https://fakt13.bandcamp.com/" id="123">
-      <title>Music | Forger343</title>
-    </bookmark>
-    <bookmark href="https://gilvasunner.bandcamp.com/" id="124">
-      <title>Music | GilvaSunner</title>
-    </bookmark>
-    <bookmark href="https://highqualityrips.bandcamp.com/" id="125">
-      <title>Music | High Quality Rips</title>
-    </bookmark>
-    <bookmark href="https://insaneian.bandcamp.com/" id="174">
-      <title>Music | Insane Ian</title>
-    </bookmark>
-    <bookmark href="https://jearchive.bandcamp.com/" id="175">
-      <title>Music | J.E.&apos;s Archive</title>
-    </bookmark>
     <bookmark href="https://jearchive.bandcamp.com/music" id="176">
       <title>Music | J.E.&apos;s Archive</title>
     </bookmark>
@@ -139,68 +73,134 @@
     <bookmark href="https://nickhotel.bandcamp.com/music" id="183">
       <title>Music | nick hotel</title>
     </bookmark>
+    <bookmark href="https://coconabe.bandcamp.com/" id="56">
+      <title>COCONABE</title>
+    </bookmark>
     <bookmark href="https://music.phyrnna.com/" id="222">
       <title>Music | Phyrnna</title>
+    </bookmark>
+    <bookmark href="https://github.com/Otiel/BandcampDownloader" id="57">
+      <title>GitHub - Otiel/BandcampDownloader: A Windows app used to download albums from Bandcamp.</title>
     </bookmark>
     <bookmark href="https://pluffaduff.bandcamp.com/" id="223">
       <title>Music | pluffaduff</title>
     </bookmark>
+    <bookmark href="https://soundcloud.com/emdyion" id="58">
+      <title>I Want Yuru Back | Yuru Camp x The Jackson 5 by Fjord.</title>
+    </bookmark>
     <bookmark href="https://popspirit.bandcamp.com/" id="224">
       <title>Music | Pop Spirit</title>
+    </bookmark>
+    <bookmark href="https://ikagunner.bandcamp.com/" id="59">
+      <title>IkaGunner</title>
     </bookmark>
     <bookmark href="https://sylvysprit.bandcamp.com/" id="225">
       <title>Music | Princess Sylvysprit</title>
     </bookmark>
+    <bookmark href="https://wpoaboa.bandcamp.com/releases" id="60">
+      <title>JoJo&apos;s Bizarre Mashups: Songs Joseph Joestar May Have Heard | Weird Painting of a Bowl of Apricots</title>
+    </bookmark>
     <bookmark href="https://santi-naoki.bandcamp.com/" id="226">
       <title>Music | SantiNaoki</title>
+    </bookmark>
+    <bookmark href="https://recordcollector1972.bandcamp.com/releases" id="61">
+      <title>La Collection Bastille | RecordCollector1972</title>
     </bookmark>
     <bookmark href="https://shnabubula.bandcamp.com/" id="227">
       <title>Music | Shnabubula</title>
     </bookmark>
+    <bookmark href="https://mega.nz/#F!YFpgxQwK!X-XbsPx-srpY0Z_UvKwPYA" id="62">
+      <title>MEGA</title>
+    </bookmark>
     <bookmark href="https://siivacore.bandcamp.com/" id="228">
       <title>Music | SIIVACORE</title>
+    </bookmark>
+    <bookmark href="https://mega.nz/#F!AA4RGRZZ!wuFLu68UBWUXQL-7yqcBTA" id="63">
+      <title>MEGA</title>
     </bookmark>
     <bookmark href="https://tatertottunes.bandcamp.com/" id="229">
       <title>Music | Tater-Tot Tunes</title>
     </bookmark>
+    <bookmark href="https://msl925.bandcamp.com/" id="64">
+      <title>MSL925 the fox</title>
+    </bookmark>
     <bookmark href="https://thepsynergist.bandcamp.com/music" id="230">
       <title>Music | ThePsynergist</title>
+    </bookmark>
+    <bookmark href="https://40nix.bandcamp.com/" id="65">
+      <title>Music | 40Nix</title>
     </bookmark>
     <bookmark href="https://ttgd.bandcamp.com/" id="231">
       <title>Music | TimmyTurnersGrandDad</title>
     </bookmark>
+    <bookmark href="https://ahmaykmewsik.bandcamp.com/" id="116">
+      <title>Music | Ahmaykmewsik</title>
+    </bookmark>
     <bookmark href="https://triple-q.bandcamp.com/music" id="270">
       <title>Music | Triple-Q</title>
+    </bookmark>
+    <bookmark href="https://chernabogue.bandcamp.com/" id="117">
+      <title>Music | Chernabogue</title>
     </bookmark>
     <bookmark href="https://truongasm.bandcamp.com/" id="271">
       <title>Music | Truongasm</title>
     </bookmark>
+    <bookmark href="https://chrismerkelstudios.bandcamp.com/music" id="118">
+      <title>Music | Chris Merkel Studios</title>
+    </bookmark>
     <bookmark href="https://0101.bandcamp.com/" id="272">
       <title>Music | Ujico*/Snail&apos;s House</title>
+    </bookmark>
+    <bookmark href="https://dbsoundworks.bandcamp.com/music" id="119">
+      <title>Music | Danny Baranowsky</title>
     </bookmark>
     <bookmark href="https://vavr.bandcamp.com/" id="273">
       <title>Music | VvvvvaVvvvvvr</title>
     </bookmark>
+    <bookmark href="https://soundcirclet.bandcamp.com/" id="120">
+      <title>Music | dante</title>
+    </bookmark>
     <bookmark href="https://xysam.bandcamp.com/" id="274">
       <title>Music | XYSam</title>
+    </bookmark>
+    <bookmark href="https://daymanoursavior.bandcamp.com/" id="121">
+      <title>Music | DaymanOurSavior</title>
     </bookmark>
     <bookmark href="https://zachcg.bandcamp.com/" id="275">
       <title>Music | Zach CG</title>
     </bookmark>
+    <bookmark href="https://ellie53.bandcamp.com/" id="122">
+      <title>Music | Ellie53</title>
+    </bookmark>
     <bookmark href="https://emdyion.bandcamp.com/releases" id="276">
       <title>Proof of Concept Vol. 1 | Emdyion</title>
+    </bookmark>
+    <bookmark href="https://fakt13.bandcamp.com/" id="123">
+      <title>Music | Forger343</title>
     </bookmark>
     <bookmark href="https://psynwav.bandcamp.com/" id="277">
       <title>Psynwav</title>
     </bookmark>
+    <bookmark href="https://gilvasunner.bandcamp.com/" id="124">
+      <title>Music | GilvaSunner</title>
+    </bookmark>
     <bookmark href="https://sgfr.highquality.rip/" id="278">
       <title>SGFR</title>
+    </bookmark>
+    <bookmark href="https://highqualityrips.bandcamp.com/" id="125">
+      <title>Music | High Quality Rips</title>
     </bookmark>
     <bookmark href="https://zefiroxable.bandcamp.com/" id="279">
       <title>Zefiroxable / ☆*ニャンボット*☆</title>
     </bookmark>
+    <bookmark href="https://insaneian.bandcamp.com/" id="174">
+      <title>Music | Insane Ian</title>
+    </bookmark>
     <bookmark href="https://drive.google.com/drive/folders/0BxobiK7SSSWRflN2bzJ1NU1ZeTFTUW9TR3NwNU9peDhMOWdfR18tSG9QWkJDQ3JpN2FRdGM" id="319">
       <title>アーカイブ – I am Jemboy : ＴＨＥ　ＡＲＣＨＩＶＥ - Google Drive</title>
+    </bookmark>
+    <bookmark href="https://jearchive.bandcamp.com/" id="175">
+      <title>Music | J.E.&apos;s Archive</title>
     </bookmark>
   </folder>
   <folder id="17">
@@ -13329,4 +13329,7 @@
 <bookmark href="https://chromewebstore.google.com/detail/windscribe-free-proxy-and/hnmpcagpplmpfojmgmnngilcnanddlhb" id="4294">
   <title>Windscribe - Free Proxy and Ad Blocker - Chrome Web Store</title>
 </bookmark>
+<folder id="4458">
+  <title>🔄 Bookmark Sync</title>
+</folder>
 </xbel>
