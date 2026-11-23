@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :4458: for Floccus bookmark sync browser extension -->
+<!--- highestId :4466: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Anime/Manga</title>
@@ -267,6 +267,12 @@
     </bookmark>
     <bookmark href="https://www.tasteatlas.com/" id="129">
       <title>World Food Atlas: Discover 16892 Local Dishes &amp; Ingredients</title>
+    </bookmark>
+    <bookmark href="https://cookingcalculator.app/" id="4459">
+      <title>Cooking Calculator: Cups to Grams &amp; Recipe Scaling</title>
+    </bookmark>
+    <bookmark href="https://coolconversion.com/" id="4460">
+      <title>CoolConversion - Free Online Calculators &amp; Unit Converters</title>
     </bookmark>
   </folder>
   <bookmark href="http://emotionalanime.com/447" id="18">
@@ -6389,6 +6395,9 @@
   <bookmark href="https://github.com/mchangrh/yt-neuter/tree/main/docs" id="2083">
     <title>yt-neuter/docs at main · mchangrh/yt-neuter · GitHub</title>
   </bookmark>
+  <bookmark href="https://github.com/ungoogled-software/ungoogled-chromium-windows" id="4461">
+    <title>ungoogled-software/ungoogled-chromium-windows: Windows packaging for ungoogled-chromium</title>
+  </bookmark>
 </folder>
 <folder id="2084">
   <title>Store</title>
@@ -7225,6 +7234,9 @@
   </bookmark>
   <bookmark href="https://hololive.hololivepro.com/music" id="2346">
     <title>音楽 | hololive（ホロライブ）公式サイト</title>
+  </bookmark>
+  <bookmark href="https://kiwiears.com/" id="4462">
+    <title>Kiwi Ears | High Quality IEM Online Store – kiwiears</title>
   </bookmark>
 </folder>
 <folder id="2347">
@@ -10441,6 +10453,18 @@
   </bookmark>
   <bookmark href="https://tvtropes.org/pmwiki/pmwiki.php/Main/YouWouldntLikeMeWhenImAngry" id="3335">
     <title>You Wouldn&apos;t Like Me When I&apos;m Angry! - TV Tropes</title>
+  </bookmark>
+  <bookmark href="https://tvtropes.org/pmwiki/pmwiki.php/Main/IJustWantToBeNormal" id="4463">
+    <title>I Just Want to Be Normal - TV Tropes</title>
+  </bookmark>
+  <bookmark href="https://tvtropes.org/pmwiki/pmwiki.php/Main/OrcusOnHisThrone" id="4464">
+    <title>Orcus on His Throne - TV Tropes</title>
+  </bookmark>
+  <bookmark href="https://tvtropes.org/pmwiki/pmwiki.php/Main/GettingCrapPastTheRadar" id="4465">
+    <title>Getting Crap Past the Radar - TV Tropes</title>
+  </bookmark>
+  <bookmark href="https://tvtropes.org/pmwiki/pmwiki.php/Main/Flanderization" id="4466">
+    <title>Flanderization - TV Tropes</title>
   </bookmark>
 </folder>
 <folder id="3336">
