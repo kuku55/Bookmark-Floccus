@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :4467: for Floccus bookmark sync browser extension -->
+<!--- highestId :4472: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Anime/Manga</title>
@@ -7231,6 +7231,21 @@
   </bookmark>
   <bookmark href="https://kiwiears.com/" id="4462">
     <title>Kiwi Ears | High Quality IEM Online Store – kiwiears</title>
+  </bookmark>
+  <bookmark href="https://www.casio.com/ph/" id="4468">
+    <title>CASIO Official Website | CASIO PHILIPPINES</title>
+  </bookmark>
+  <bookmark href="https://www.casio.com/ph/electronic-musical-instruments/brands/casiotone/" id="4469">
+    <title>Casiotone | CASIO PHILIPPINES</title>
+  </bookmark>
+  <bookmark href="https://timex.com/" id="4470">
+    <title>Watches from Timex | Digital, Analog, &amp; Water Resistant | Timex US</title>
+  </bookmark>
+  <bookmark href="https://timex.ph/" id="4471">
+    <title>Shop Original Timex Watches Online at Timex Philippines</title>
+  </bookmark>
+  <bookmark href="https://jsaux.com/" id="4472">
+    <title>JSAUX GAMING® Online Store | Trusted by 5 Million+ Gamers</title>
   </bookmark>
 </folder>
 <folder id="2347">
