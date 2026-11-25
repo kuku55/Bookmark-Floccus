@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :4472: for Floccus bookmark sync browser extension -->
+<!--- highestId :4474: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Anime/Manga</title>
@@ -7247,6 +7247,9 @@
   <bookmark href="https://hololive.hololivepro.com/music" id="2346">
     <title>音楽 | hololive（ホロライブ）公式サイト</title>
   </bookmark>
+  <bookmark href="https://www.roland.com/us/" id="4473">
+    <title>Roland - US</title>
+  </bookmark>
 </folder>
 <folder id="2347">
   <title>TV Tropes</title>
@@ -10474,6 +10477,9 @@
   </bookmark>
   <bookmark href="https://tvtropes.org/pmwiki/pmwiki.php/Main/Flanderization" id="4466">
     <title>Flanderization - TV Tropes</title>
+  </bookmark>
+  <bookmark href="https://tvtropes.org/pmwiki/pmwiki.php/Main/InterchangeableAsianCultures" id="4474">
+    <title>Interchangeable Asian Cultures - TV Tropes</title>
   </bookmark>
 </folder>
 <folder id="3336">
