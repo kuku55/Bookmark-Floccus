@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :4478: for Floccus bookmark sync browser extension -->
+<!--- highestId :4479: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Anime/Manga</title>
@@ -2524,6 +2524,9 @@
   </bookmark>
   <bookmark href="https://nyaa.si/user/Yurasuka" id="856">
     <title>Yurasuka :: Nyaa</title>
+  </bookmark>
+  <bookmark href="https://retrogametalk.com/repo/?languages%5B%5D=6&amp;languages%5B%5D=120&amp;not_types%5B%5D=psx2psp&amp;show_filters=true" id="4479">
+    <title>English · English Patched · No PSP Eboots – The Repo</title>
   </bookmark>
 </folder>
 <folder id="5">
